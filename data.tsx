@@ -122,11 +122,6 @@ export const serviceData = [
         description: "Diseño y desarrollo de sitios web a medida, adaptados a tus necesidades",
     },
     {
-        icon: <Book />,
-        title: "Copywriting",
-        description: "Creación de contenido persuasivo y atractivo que capta la atención de tu audiencia",
-    },
-    {
         icon: <Rocket />,
         title: "SEO",
         description: "Optimización de tu presencia en línea mediante estrategias de SEO avanzadas, ",
